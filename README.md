@@ -1,5 +1,5 @@
 
-# Metadata-driven ingestion with schema inference
+# Schema Evolution for Automated Metadata-Driven Ingestion
 
 Code for Chris Hastie's session for Snowflake BUILD 2024 on how to leverage schema evolution for automated metadata-driven ingestion.
 
