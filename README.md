@@ -77,6 +77,12 @@ Alternatively, share this link:
 
 For more information on the author, Chris Hastie, visit his profile at InterWorks and/or LinkedIn.
 
+> My passion is not only to personally provide elegant and simple solutions to complex problems but also to provide others with the knowledge and tools to do this themselves.
+>
+> I have been engineering data since 2014 and using Snowflake since 2018 to solve customer challenges and drive value, becoming a Data Superhero in 2019 following a series of blog posts and other > community engagement.
+>
+> I am also a SnowPro Subject Matter Expert and have been involved in most current SnowPro exams.
+
 ### InterWorks Profile
 
 [https://interworks.com/people/chris-hastie](https://interworks.com/people/chris-hastie)
