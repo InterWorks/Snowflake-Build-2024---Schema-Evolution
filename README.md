@@ -3,6 +3,14 @@
 
 Code for Chris Hastie's session for Snowflake BUILD 2024 on how to leverage schema evolution for automated metadata-driven ingestion.
 
+## Presentation recording
+
+To watch the 30-minute recording of this session, access the following link and create a free account for Snowflake BUILD 2024. This will give you access to the recording of my session, along with recordings of all other sessions that took place during the event.
+
+[BUILD 2024: How to leverage schema evolution for automated metadata-driven ingestion](https://www.snowflake.com/build/emea/agenda/?agendaPath=session/1496255)
+
+![QR for BUILD 2024 recording](images/QR-BUILD-2024-recording.png)
+
 ## Leveraging this repository in Snowflake
 
 To leverage this repository, each of the following notebook files can be imported separately into Snowflake:
